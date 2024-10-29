@@ -47,13 +47,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Cara Penggunaan
-1. Setelah program dijalankan, jendela GUI akan muncul dengan pilihan bentuk yang dapat dipilih: Segitiga atau Jajar Genjang.
-2. Masukkan nilai alas dan tinggi pada kolom yang tersedia.
-3. Klik tombol Hitung Luas untuk mendapatkan hasil perhitungan.
-4. Hasil luas dari bentuk yang dipilih akan ditampilkan dalam jendela pop-up.
-
-
 ## Persyaratan
 - Python 3.x
 - PyQt6
